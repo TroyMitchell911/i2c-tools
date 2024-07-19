@@ -9,3 +9,4 @@ cp i2cdetect /usr/local/bin
 cp i2cdump /usr/local/bin
 cp i2cset /usr/local/bin
 cp i2ctransfer /usr/local/bin
+cp i2cget /usr/local/bin
